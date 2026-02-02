@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1> Summer Sale Limited Offers 2026(V2)</h1>
+            <h1> Big Billion Sale Offers 2026(V2)</h1>
             <p>Discover the latest trends in fashion with us, technology and accessories with up to 30% off on selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>

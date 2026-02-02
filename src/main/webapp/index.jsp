@@ -826,8 +826,8 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1> New Collection Sale 2026(V3)</h1>
-            <p>Discover the latest trends in fashion with us, technology and accessories with up to 50% off on selected items</p>
+            <h1> Summer Sale Limited Offers 2026(V2)</h1>
+            <p>Discover the latest trends in fashion with us, technology and accessories with up to 30% off on selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
